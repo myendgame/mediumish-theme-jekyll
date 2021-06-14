@@ -1,7 +1,7 @@
 # Site
 name: "Endgame"
 title: "What's your endgame?"
-description: "If you don’t know where you are going, you’ll end up someplace else"
+description: "If you don’t know where you're going, you’ll end up someplace else"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 google_analytics: 'UA-46278016-1'
